@@ -1,0 +1,14 @@
+Hệ quản trị CSDL MySQL là gì? Nêu ba đặc điểm chính của MySQL:
+
+MySQL là một hệ quản trị cơ sở dữ liệu quan hệ mã nguồn mở, sử dụng ngôn ngữ SQL (Structured Query Language) để quản lý dữ liệu.
+
+Ba đặc điểm chính của MySQL:
+
+Hiệu suất cao: MySQL được tối ưu hóa để xử lý các truy vấn nhanh chóng và hiệu quả.
+Tính mở rộng: Có thể xử lý từ các ứng dụng nhỏ đến các hệ thống lớn với lượng dữ liệu khổng lồ.
+Tính bảo mật: Hỗ trợ các cơ chế bảo mật mạnh mẽ, như quản lý người dùng và phân quyền truy cập.
+Ba trường hợp thực tế mà MySQL có thể được sử dụng:
+
+Website thương mại điện tử: Lưu trữ thông tin sản phẩm, khách hàng, đơn hàng.
+Ứng dụng quản lý doanh nghiệp: Quản lý dữ liệu nhân viên, khách hàng, tài chính.
+Hệ thống quản lý học sinh: Lưu trữ thông tin học sinh, giáo viên, khóa học, điểm số.
